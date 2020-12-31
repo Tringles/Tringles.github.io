@@ -14,7 +14,7 @@
 ### Language
 
 + C++
-  + JUCE Framework - in progress
+  + JUCE Framework
 
 + JAVA
 
