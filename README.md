@@ -8,6 +8,7 @@
 
 + 2020.12.21 ~ Verses Internship
   + Develop Audio Plugin for unity using JUCE Framework & Tracktion engine
+  + Develop Deep Learning Pipeline using Azure
 
 ------------------------
 
