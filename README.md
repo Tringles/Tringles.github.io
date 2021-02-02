@@ -20,3 +20,6 @@
 + JAVA
 
 + Javascript
+
++ Python
+  + Azure-Functions
