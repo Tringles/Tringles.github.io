@@ -9,7 +9,7 @@
 + 2020.12.21 ~ Verses Internship
   + Develop Audio Plugin for unity using JUCE Framework
   + Develop Deep Learning Pipeline
-  + Web app demo frontend
+  + Web app demo front-end
 ------------------------
 
 ### Language
