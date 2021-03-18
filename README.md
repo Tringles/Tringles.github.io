@@ -12,6 +12,7 @@
   + Develop Audio Plugin for unity using JUCE Framework
   + Develop Deep Learning Pipeline
   + Web app demo front-end
+  + Web app demo infra
 ------------------------
 
 ### Language
