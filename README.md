@@ -10,7 +10,7 @@
 
 + 2020.12.21 ~ Verses Internship
   + Unity Audio Plugin using JUCE Framework
-  + Deep Learning Pipeline
+  + Deep Learning Pipeline - serverless using docker, python
     + Azure
     + AWS lambda
   + Web app demo front-end
