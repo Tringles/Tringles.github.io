@@ -12,6 +12,9 @@
     + AWS lambda
   + Web app demo front-end
   + Web app demo infra
+  + APP 'FIGHTMAN' Technical assistant
+    + firebase
+    + interaction method
 + 2021.03.27 스타트업 코딩 페스티벌 - 스코페 Scofe 2021 본선 (2차)
 
 
