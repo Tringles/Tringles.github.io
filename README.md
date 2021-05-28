@@ -16,6 +16,7 @@
     + firebase
     + interaction method
 + 2021.03.27 스타트업 코딩 페스티벌 - 스코페 Scofe 2021 본선 (2차)
++ 2021.05.28 Wanted 2021 Dev_carnival 금손 뱃지
 
 
 
@@ -32,4 +33,6 @@
 + Javascript
 + Python
   + Simple web crawler
+  + AWS lambda
+  + Azure functions
 + Typescript
