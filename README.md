@@ -40,4 +40,3 @@
   + Simple web crawler
   + AWS lambda
   + Azure functions
-+ Typescript
