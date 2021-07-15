@@ -10,9 +10,9 @@
   + Deep Learning Pipeline - serverless using docker, python
     + Azure
     + AWS lambda
-  + Web app demo Back-end
+  + Web app Back-end
     + Audio server
-  + Web app demo infra
+  + Web app infra
     + AWS lambda
       + Beat detection
       + Audio separation
