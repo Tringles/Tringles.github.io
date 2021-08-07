@@ -35,6 +35,7 @@
     + Unity Audio Plugins
 + JAVA
 + Javascript
+  + typescript
   + node.js express
 + Python
   + Simple web crawler
