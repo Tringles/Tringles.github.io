@@ -13,8 +13,6 @@
   + Deep Learning Pipeline - serverless
     + Azure Functions
     + AWS lambda
-  + Web app Back-end
-    + Audio server
   + Web app infra
     + AWS lambda
       + Beat detection
@@ -24,3 +22,4 @@
     + interaction method
 + 2021.03.27 스타트업 코딩 페스티벌 - 스코페 Scofe 2021 본선 (2차)
 + 2021.05.28 Wanted 2021 Dev_carnival 금손 뱃지
++ 2021.11.13 2021 ACM-ICPC Asia-Seoul Regional
