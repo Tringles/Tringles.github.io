@@ -17,7 +17,7 @@
     + AWS lambda
       + Beat detection
       + Audio separation
-  + APP 'FIGHTMAN' Technical assistant
+  + APP 'FIGHTMAN' Technical assistant - CES 2022 INNOVATION AWARD PRODUCT
     + firebase
     + interaction method
 + 2021.03.27 스타트업 코딩 페스티벌 - 스코페 Scofe 2021 본선 (2차)
