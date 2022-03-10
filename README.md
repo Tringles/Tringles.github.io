@@ -22,7 +22,18 @@
     + firebase
     + interaction method
 + 2021.12 Hitchhiker's Metaverse Music - Software development
-+ 2021.12.27 ~ KakaoBrain Pathfinder internship
++ 2021.12.27 ~ 2022.02.28 KakaoBrain Pathfinder internship
+  + DevOps
+    + GCP
+  + Backend
+    + Flask
+    + Nest.js
+  + Data Engineering
+  + NLP Model Research
+    + BERT
+    + ELECTRA
+    + BART
+    + GPT
 
 - - -
 
