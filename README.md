@@ -11,7 +11,8 @@
 - - -
 
 ### 대외 활동
-+ 2020.12.21 ~ 2021.08.27 Verses Internship
++ 2020.12.21 ~ 2021.05.01 Verses Internship
++ 2021.06.14 ~ 2021.07.15 Verses Contract worker
   + Unity Audio Plugin using JUCE Framework
   + Deep Learning Pipeline - serverless
     + Azure Functions
