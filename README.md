@@ -1,6 +1,6 @@
 ## 정종민
 ### 경력
-+ 2022-08-22 ~ [Verses](https://www.verses.kr/)
++ 2022.08.22 ~ [Verses](https://www.verses.kr/)
 
 - - -
 
