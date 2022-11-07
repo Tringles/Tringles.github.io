@@ -1,4 +1,6 @@
 ## 정종민
+[BLOG](https://blog.naver.com/jjmjm2002) | [RESUME](https://tringles.notion.site/_Resume-c9eef5017cc849308329907596bc14b1) | [PORTFOLIO](https://tringles.notion.site/_Portfolio-5b9f7d02568b43d895070dce23a63c4b)
+
 ### 경력
 + 2022.08.22 ~ [Verses](https://www.verses.kr/)
 
