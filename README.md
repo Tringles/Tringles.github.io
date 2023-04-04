@@ -48,11 +48,11 @@
 - - -
 
 ### 수상/활동 내역
-+ 2020.09.12 [브랜디 코드네임B] 대회 장려상 수상(2300명 참가, 17~46등)
-+ 2021.03.27 스타트업 코딩 페스티벌 - 스코페 Scofe 2021 본선 (2차)
++ 2020.09.12 [브랜디 코드네임B] 대회 장려상 수상
 + 2021.05.28 Wanted 2021 Dev_carnival 금손 뱃지
 + 2021.11.13 2021 ACM-ICPC Asia-Seoul Regional
 + CES 2022 INNOVATION AWARD PRODUCT
++ CES 2023 BEST of INNOVATION AWARD PRODUCT
 
 - - -
 
